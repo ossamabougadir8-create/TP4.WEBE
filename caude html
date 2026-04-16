@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP 4 - Mise en page CSS Grid</title>
+    <link rel="stylesheet" href="tp4 webe .css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="box box1">
+            <img src="c:\Users\ossam\Downloads\téléchargement (3).jpg" alt="Image 1">
+            <h2>MESSE</h2>
+            <p>Surnommé "La Pulga", il est célèbre pour ses dribbles déconcertants et son contrôle de balle millimétré, comme si le ballon restait collé à son pied gauche magique.</p>
+            <button>Bouton 1</button>
+        </div>
+
+        <div class="box box2">
+            <img src="c:\Users\ossam\Downloads\1_T3q5ZGdxu6WfVBkhC66DXQ.jpg" alt="Image 2">
+            <h2>RONALDINHO</h2>
+            <p>Il n'était pas seulement un joueur qui marquait des buts, mais un artiste qui créait des mouvements (comme "Elastico") qui défiaient les lois de la physique, faisant que les masses - même les adversaires - l'applaudissent</p>
+            <button>Bouton 2</button>
+        </div>
+
+        <div class="box box3">
+            <img src="c:\Users\ossam\Downloads\images (1).jpg" alt="Image 3">
+            <h2>NEYMARE</h2>
+            <p>Neymar est l'un des joueurs les plus qualifiés de sa génération ; il a la capacité de surpasser les défenseurs avec des mouvements de spectacle audacieux et une vitesse intuitive qui font de sa montre un cauchemar.</p>
+            <button>Bouton 3</button>
+        </div>
+
+        <div class="box box4">
+            <img src="c:\Users\ossam\Downloads\téléchargement (4).jpg" alt="Image 4">
+            <h2>RONALDO</h2>
+            <p>Ronaldo a le "paquet complet" ; une augmentation fantastique des balles verticales, des tirs de missiles à longue portée et une capacité supérieure à marquer avec les deux pieds et sous n'importe quel angle.</p>
+            <button>Bouton 4</button>
+        </div>
+
+        <div class="box box5">
+            <img src="c:\Users\ossam\Downloads\téléchargement (5).jpg" alt="Image 5">
+            <h2>PEDRI</h2>
+            <p>Pedri est une incarnation vivante du style moderne "Tiki Taka".</p>
+            <button>Bouton 5</button>
+        </div>
+
+        <div class="box box6">
+            <img src="c:\Users\ossam\Downloads\images (2).jpg" alt="Image 6">
+            <h2>Frenkie de Jong</h2>
+            <p>Il a une capacité incroyable à ramasser le ballon des zones de défense et à le lancer vers l'avant, dépassant les lignes de pression de l'adversaire grâce à sa vitesse de balle et à la force de ses jambes.</p>
+            <button>Bouton 6</button>
+        </div>
+    </div>
+
+</body>
+</html>
